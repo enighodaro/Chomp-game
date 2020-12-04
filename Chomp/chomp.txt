@@ -1,0 +1,27 @@
+Welcome to Chomp. 
+
+Play:
+Two players begin with a rectangular bar of chocolate, itself composed of smaller squares. 
+They take it in turns to snap off - and eat - a lump of chocolate. 
+However the top-left square has been replaced with a piece of soap. 
+The loser is the one who has to eat the soap. 
+
+Game:
+Choose a square and all squares to the rightand downwards will be eaten. 
+The computer will do the same.
+
+How to run code: 
+launch the java program (jar file included)
+A GUI with 3 buttons would appear with possible dimensions, choose 1; 
+Player's turn is always first. 
+For the computer's turn click on any random square and the computer will take a turn. 
+
+
+End of Game: 
+To play a new game close current GUI and relaunch program 
+Play again button produces un-accounted for errors in the display.
+
+
+
+******************************************
+Created and edited by Esosa Naomi Ighodaro
