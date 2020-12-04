@@ -1,5 +1,5 @@
 # Chomp-game
-an implementation of the chomp game
+An implementation of the chomp game
 
 
 Computer Science 2005
