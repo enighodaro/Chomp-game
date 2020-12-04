@@ -15,3 +15,5 @@ References
 book: Math Hysteria by Ian Stewart, Oxford University Press 2004.
 website: http://www.whydomath.org/Reading_Room_Material/ian_stewart/chocolate/chocolate.html
 Prepared By: © Mark Hatcher, Department of Computer Science, MUN (BE190901)
+
+Edited by Esosa Naomi Ighodaro
